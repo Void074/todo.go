@@ -3,6 +3,6 @@
 adding urfave/cli to a project, run the commands below:
 
 [source bash]
----
-  go get github.com/urfave/cli/v3@latest
----
+----
+go get github.com/urfave/cli/v3@latest
+----
